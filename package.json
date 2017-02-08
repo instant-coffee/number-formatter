@@ -1,0 +1,23 @@
+{
+  "name": "@username/number-formatter",
+  "version": "0.0.1",
+  "description": "npm demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instant-coffee/number-formatter.git"
+  },
+  "author": "Lachlan MacKenzie <lachlanrm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/instant-coffee/number-formatter/issues"
+  },
+  "homepage": "https://github.com/instant-coffee/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
